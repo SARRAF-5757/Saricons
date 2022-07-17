@@ -17,7 +17,6 @@
     <icon drawable="@drawable/among_us" package="com.innersloth.spacemafia" name="Among Us" />
     <icon drawable="@drawable/android_auto" package="com.google.android.projection.gearhead" name="Android Auto" />
     <icon drawable="@drawable/antutu" package="com.antutu.ABenchMark" name="AnTuTu Benchmark" />
-    <icon drawable="@drawable/asana" package="com.asana.app" name="Asana" />
     <icon drawable="@drawable/apkmirror_installer" package="com.apkmirror.helper.prod" name="APKMirror Installer" />
     <icon drawable="@drawable/app_manager" package="io.github.muntashirakon.AppManager" name="App Manager" />
     <icon drawable="@drawable/apple_music" package="com.apple.android.music" name="Apple Music" />
@@ -118,7 +117,6 @@
     <icon drawable="@drawable/camera" package="com.huawei.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.lge.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.motorola.camera2" name="Camera" />
-    <icon drawable="@drawable/camera" package="com.android.MGC_8_5_300" name="Camera" />
     <icon drawable="@drawable/camera" package="com.motorola.camera3" name="Camera" />
     <icon drawable="@drawable/camera" package="com.motorola.cameraone" name="Camera" />
     <icon drawable="@drawable/camera" package="com.oneplus.camera" name="Camera" />
@@ -526,7 +524,6 @@
     <icon drawable="@drawable/shadow_kwgt" package="shadowkwgt.kustom.pack" name="Shadow KWGT" />
     <icon drawable="@drawable/shazam" package="com.shazam.android" name="Shazam" />
     <icon drawable="@drawable/shopee" package="com.shopee.br" name="Shopee" />
-    <icon drawable="@drawable/talon" package="com.klinker.android.twitter_l" name="Talon for Twitter" />
     <icon drawable="@drawable/shopee" package="com.shopee.id" name="Shopee" />
     <icon drawable="@drawable/shopee" package="com.shopee.my" name="Shopee" />
     <icon drawable="@drawable/shopee" package="com.shopee.ph" name="Shopee" />
