@@ -41,7 +41,19 @@ private val coreContributors = listOf(
         username = "paphonb",
         photoUrl = "https://avatars.githubusercontent.com/u/8080853",
         socialUrl = "https://twitter.com/paphonb",
-    )
+    ),
+    Contributor(
+        name = "Patryk Michalik",
+        username = "patrykmichalik",
+        photoUrl = "https://raw.githubusercontent.com/patrykmichalik/brand/master/logo-on-indigo.png",
+        socialUrl = "https://patrykmichalik.com",
+    ),
+    Contributor(
+        name = "Sarraf (Private Fork Manager)",
+        username = "SARRAF-5757",
+        photoUrl = "https://avatars.githubusercontent.com/u/61262059?v=4",
+        socialUrl = "https://github.com/SARRAF-5757",
+    ),
 )
 
 private val specialThanks = listOf(
