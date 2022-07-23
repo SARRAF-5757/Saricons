@@ -21,6 +21,7 @@
     <icon drawable="@drawable/app_manager" package="io.github.muntashirakon.AppManager" name="App Manager" />
     <icon drawable="@drawable/apple_music" package="com.apple.android.music" name="Apple Music" />
     <icon drawable="@drawable/application_inspector" package="com.ubqsoft.sec01" name="Application Inspector" />
+    <icon drawable="@drawable/asana" package="com.asana.app" name="Asana" />
     <icon drawable="@drawable/atlas_vpn" package="com.atlasvpn.free.android.proxy.secure" name="Atlas VPN" />
     <icon drawable="@drawable/audiofx" package="org.lineageos.audiofx" name="AudioFX" />
     <icon drawable="@drawable/aurora_droid" package="com.aurora.adroid" name="Aurora Droid" />
@@ -28,6 +29,7 @@
     <icon drawable="@drawable/authy" package="com.authy.authy" name="Authy" />
     <icon drawable="@drawable/auto_notification" package="com.joaomgcd.autonotification" name="Auto Notification" />
     <icon drawable="@drawable/auxio" package="org.oxycblt.auxio" name="Auxio" />
+    <icon drawable="@drawable/aves_gallery" package="deckers.thibault.aves" name="Aves Gallery" />
     <icon drawable="@drawable/axisnet" package="com.axis.net" name="AXISnet" />
     <icon drawable="@drawable/babbel" package="com.babbel.mobile.android.en" name="Babbel" />
     <icon drawable="@drawable/bank_jago" package="com.jago.digitalbanking" name="Jago" />
@@ -117,6 +119,7 @@
     <icon drawable="@drawable/camera" package="com.huawei.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.lge.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.motorola.camera2" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.android.MGC_8_5_300" name="Camera" />
     <icon drawable="@drawable/camera" package="com.motorola.camera3" name="Camera" />
     <icon drawable="@drawable/camera" package="com.motorola.cameraone" name="Camera" />
     <icon drawable="@drawable/camera" package="com.oneplus.camera" name="Camera" />
@@ -584,6 +587,7 @@
     <icon drawable="@drawable/syncthing" package="com.github.catfriend1.syncthingandroid" name="Syncthing" />
     <icon drawable="@drawable/syncthing" package="com.nutomic.syncthingandroid" name="Syncthing" />
     <icon drawable="@drawable/tagesschau" package="de.tagesschau" name="tagesschau" />
+    <icon drawable="@drawable/talon" package="com.klinker.android.twitter_l" name="Talon for Twitter" />
     <icon drawable="@drawable/tapatalk_pro" package="com.quoord.tapatalk" name="Tapatalk Pro" />
     <icon drawable="@drawable/tapet" package="com.sharpregion.tapet" name="Tapet" />
     <icon drawable="@drawable/tele2" package="nl.tele2.mytele2" name="Mijn Tele2" />
