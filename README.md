@@ -2,6 +2,8 @@
 Saricons is a fork of Lawnicons that is always up-to-date with the latest version of Lawnicons and includes additional icons to make your app drawer feel more complete. Another perk, if you don't know how to contribute to the main project, you can request icons to be added here.
 These icons can be used normally as an add-on for adding themed icons to [Lawnchair 12](https://github.com/LawnchairLauncher/lawnchair).
 
+![Saricons Banner]()
+
 **Be sure to uninstall any previous version of Saricons or Lawnicons before installing any new version of Saricons**
 
 ## Download
