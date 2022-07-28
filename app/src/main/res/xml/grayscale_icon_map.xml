@@ -32,6 +32,7 @@
     <icon drawable="@drawable/aves_gallery" package="deckers.thibault.aves" name="Aves Gallery" />
     <icon drawable="@drawable/axisnet" package="com.axis.net" name="AXISnet" />
     <icon drawable="@drawable/babbel" package="com.babbel.mobile.android.en" name="Babbel" />
+    <icon drawable="@drawable/backtrackit" package="com.superpowered.backtrackit" name="Backtrackit" />
     <icon drawable="@drawable/bank_jago" package="com.jago.digitalbanking" name="Jago" />
     <icon drawable="@drawable/bank_wallet" package="com.huntington.m" name="Huntington Bank" />
     <icon drawable="@drawable/battery_guru" package="com.paget96.batteryguru" name="Battery Guru" />
@@ -226,6 +227,7 @@
     <icon drawable="@drawable/flightradar24" package="com.flightradar24free" name="Flightradar24" />
     <icon drawable="@drawable/flashy" package="rocks.poopjournal.flashy" name="Flashy" />
     <icon drawable="@drawable/flip_id" package="id.flip" name="Flip" />
+    <icon drawable="@drawable/floris_board" package="dev.patrickgold.florisboard.beta" name="FlorisBoard" />
     <icon drawable="@drawable/focus_todo" package="com.superelement.pomodoro" name="Focus To-Do" />
     <icon drawable="@drawable/forest" package="kaka.wallpaper.forest" name="Forest Wallpaper" />
     <icon drawable="@drawable/fox_mmm" package="com.fox2code.mmm" name="Fox's Magisk Module Manager" />
